@@ -1,0 +1,5 @@
+/Users/GaoFan/Projects/Basic_C_Sharp/Basic_C_Sharp/obj/x86/Debug/Basic_C_Sharp.csproj.CoreCompileInputs.cache
+/Users/GaoFan/Projects/Basic_C_Sharp/Basic_C_Sharp/bin/Debug/Basic_C_Sharp.exe
+/Users/GaoFan/Projects/Basic_C_Sharp/Basic_C_Sharp/bin/Debug/Basic_C_Sharp.pdb
+/Users/GaoFan/Projects/Basic_C_Sharp/Basic_C_Sharp/obj/x86/Debug/Basic_C_Sharp.exe
+/Users/GaoFan/Projects/Basic_C_Sharp/Basic_C_Sharp/obj/x86/Debug/Basic_C_Sharp.pdb
